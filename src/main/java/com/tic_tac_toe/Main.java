@@ -1,7 +1,10 @@
 package com.tic_tac_toe;
 
 public class Main {
-public static void main(String[] args) {
+public static void main (String [] arg){
+    System.out.println(Board.tablero);
+
+
     System.out.println("Welcome to Tic Tac Toe!");
     System.out.println("Rules:");
     System.out.println("- Two players: X y O");
