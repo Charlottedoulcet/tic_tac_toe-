@@ -1,5 +1,14 @@
 # Tic Tac Toe — Java Console Application
 
+### Game start
+![Empty board](docs/game-start.png)
+
+### During gameplay
+![Game in progress](docs/game-playing.png)
+
+### Game result
+![Game end](docs/game-end.png)
+
 ## Project Description
 
 This project consists of the development of a **Tic Tac Toe (Tres en Raya)** game implemented entirely in **Java**, designed to be played via the **terminal**.
