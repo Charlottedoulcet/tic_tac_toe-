@@ -42,7 +42,7 @@ package com.tic_tac_toe;
 // X
 // O
 // Instructions board:
-// para imprimir un ejemplo de las posiciones del tablero
+// para imprimir un ejemplo de las posiciones del tableroooo
 public class Board {
 
     int rows;
