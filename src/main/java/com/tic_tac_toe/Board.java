@@ -1,10 +1,10 @@
 package com.tic_tac_toe;
 
 // FLOWCHART:
-// Mensaje de bienvenida.
-// Explicar reglas del juego
-// Preguntar si quiere iniciar la partida
-// Jugador X vs Bot O
+// done *-Mensaje de bienvenida.
+// done a medias *Explicar reglas del juego
+// done * Preguntar si quiere iniciar la partida
+// Jugador X vs Bot O (el jugador escoge que token quiere)
 // Preguntar dónde 
 // Verificar si la posición está válida (si está dentro de las posiciones disponibles)
 // Verificar si la posición está vacía
