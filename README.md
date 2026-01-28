@@ -30,21 +30,7 @@ The project focuses on applying core programming concepts, object-oriented desig
 
 - Visual Studio Code
 - Git / GitHub
-- Trello or Jira (project management)
-
----
-
-## Project Structure (Proposed)
-src/
-├── Main.java
-├── Game.java
-├── Board.java
-├── Player.java
-└── utils/
-└── InputValidator.java
-
-
-*The structure may evolve during development.*
+- Jira (project management)
 
 ---
 
@@ -85,7 +71,7 @@ javac src/*.java
 java src/Main
 
 Team
-Product Owner: __________________
-Scrum Master: __________________
-Developer: __________________
+Product Owner: 
+Scrum Master: 
+Developer: 
 Developer: Lorena Ferreira
