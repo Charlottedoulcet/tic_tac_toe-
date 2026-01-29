@@ -1,15 +1,14 @@
 package com.tic_tac_toe;
 
-import java.util.Scanner;
-
 import java.util.Random;
+import java.util.Scanner;
 
 public class TicTacToe {
 
     private final Board board;
     private boolean player1Turn;
     private int moves;
-    private boolean playAgainstCpu;
+    private final boolean playAgainstCpu;
 
     public TicTacToe(boolean playAgainstCpu) {
         this.board = new Board();

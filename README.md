@@ -83,6 +83,6 @@ java src/Main
 
 ## Team
 - Product Owner: Cristina Viejó https://github.com/krissvinti-ux
-- Developer: Anna Hidalgo https://github.com/annahico
+- Scrum Master: Anna Costa https://github.com/annahico
 - Developer: Marie Charlotte Doulcet https://github.com/Charlottedoulcet
 - Developer: Lorena Ferreira https://github.com/lorenasferreira
