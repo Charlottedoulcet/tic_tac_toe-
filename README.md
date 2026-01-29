@@ -1,14 +1,13 @@
 # Tic Tac Toe — Java Console Application
 
-
 ## Project Description
 
-This project consists of the development of a **Tic Tac Toe (Tres en Raya)** game implemented entirely in **Java**, designed to be played via the **terminal**.
+This project is a **Tic Tac Toe (Tres en Raya)** game developed entirely in **Java**, designed to run in the **terminal**.
 
-The game supports two players (X and O) who take turns placing their moves on a 3x3 board. The system validates each move, updates the board state, checks for winning conditions or a draw, and displays the final result to the users.
+It supports two players (**X** and **O**) who take turns placing their moves on a **3×3** board. The program validates each move, updates the board after every turn, checks for win or draw conditions, and displays the final result.
 
-The project focuses on applying core programming concepts, object-oriented design, and collaborative development practices using version control.
- 
+The goal of this project is to apply core programming fundamentals, practice object-oriented design, and strengthen collaborative development workflows using version control.
+
 ---
 
 ## Objectives
