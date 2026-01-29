@@ -81,7 +81,7 @@ java src/Main
 
 ---
 
-Team
+## Team
 - Product Owner: Cristina Viejó https://github.com/krissvinti-ux
 - Developer: Anna Hidalgo https://github.com/annahico
 - Developer: Marie Charlotte Doulcet https://github.com/Charlottedoulcet
