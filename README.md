@@ -20,6 +20,15 @@ The goal of this project is to apply core programming fundamentals, practice obj
 
 ---
 
+## Features
+- 3×3 board rendered in console  
+- Turn-based gameplay (X starts)  
+-  Input validation (row/column range)  
+-  Prevents playing on occupied cells  
+-  Win detection (rows, columns, diagonals)  
+-  Draw detection when board is full  
+-  Final result message (X wins / O wins / Draw)  
+
 ## Technologies
 
 - Java 21
