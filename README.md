@@ -34,6 +34,9 @@ The goal of this project is to apply core programming fundamentals, practice obj
 - Java 21
 
 ---
+## Tech Stack
+
+- **Java 21**
 
 ## Tools
 
