@@ -72,6 +72,7 @@ javac src/*.java
 java src/Main
 
 ---
+## Screenshots
 
 ### Game start
 ![Empty board](docs/game-start.png)
