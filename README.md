@@ -1,13 +1,5 @@
 # Tic Tac Toe — Java Console Application
 
-### Game start
-![Empty board](docs/game-start.png)
-
-### During gameplay
-![Game in progress](docs/game-playing.png)
-
-### Game result
-![Game end](docs/game-end.png)
 
 ## Project Description
 
@@ -16,7 +8,7 @@ This project consists of the development of a **Tic Tac Toe (Tres en Raya)** gam
 The game supports two players (X and O) who take turns placing their moves on a 3x3 board. The system validates each move, updates the board state, checks for winning conditions or a draw, and displays the final result to the users.
 
 The project focuses on applying core programming concepts, object-oriented design, and collaborative development practices using version control.
-
+ 
 ---
 
 ## Objectives
@@ -80,6 +72,15 @@ javac src/*.java
 java src/Main
 
 ---
+
+### Game start
+![Empty board](docs/game-start.png)
+
+### During gameplay
+![Game in progress](docs/game-playing.png)
+
+### Game result
+![Game end](docs/game-end.png)
 
 ## Team
 - Product Owner: Cristina Viejó https://github.com/krissvinti-ux
