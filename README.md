@@ -80,7 +80,7 @@ javac src/*.java
 java src/Main
 
 Team
-Product Owner: 
-Scrum Master: 
-Developer: 
-Developer: Lorena Ferreira
+Product Owner: Cristina Viejó @krissvinti-ux
+Scrum Master: Anna Hidalgo @annahico
+Developer: Marie Charlotte Doulcet @Charlottedoulcet
+Developer: Lorena Ferreira @lorenasferreira
