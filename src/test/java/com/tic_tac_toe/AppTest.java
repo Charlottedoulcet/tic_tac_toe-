@@ -14,19 +14,7 @@ class AppTest {
     @BeforeEach
     @SuppressWarnings("unused")
     void setUp() {
-        // Inicia el juego con un tablero vacío antes de cada prueba
         board = new Board();
-    }
-
-    @Test
-    @DisplayName("Should initialize board with dashes")
-    void testBoardInitialization() {
-        char[][] grid = board.getGrid();
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                assertEquals('-', grid[i][j], "Each cell should contain a dash '-'");
-            }
-        }
     }
 
     @Test

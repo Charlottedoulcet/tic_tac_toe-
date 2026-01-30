@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tic_tac_toe.AppTest" time="0.077" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tic_tac_toe.AppTest" time="0.078" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\test-classes;A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\classes;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Anna\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Anna\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="java.class.path" value="A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\test-classes;A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\classes;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Anna\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Anna\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,10 +15,10 @@
     <property name="user.country" value="ES"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25\bin"/>
-    <property name="sun.java.command" value="C:\Users\Anna\AppData\Local\Temp\surefire11115349847898854158\surefirebooter4290661600740277086.jar C:\Users\Anna\AppData\Local\Temp\surefire11115349847898854158 2026-01-30T09-34-44_286-jvmRun1 surefire7227509119605725835tmp surefire_011539655295107845714tmp"/>
+    <property name="sun.java.command" value="C:\Users\Anna\AppData\Local\Temp\surefire12985124687445218970\surefirebooter5843322626733641986.jar C:\Users\Anna\AppData\Local\Temp\surefire12985124687445218970 2026-01-30T10-07-57_711-jvmRun1 surefire15671590526582971655tmp surefire_08317165542600054263tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.tic_tac_toe.AppTest"/>
-    <property name="surefire.test.class.path" value="A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\test-classes;A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\classes;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Anna\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Anna\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="surefire.test.class.path" value="A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\test-classes;A:\FACTORIA F5\PROYECTOS\tic_tac_toe-\target\classes;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Anna\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Anna\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Anna\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Anna\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Anna"/>
     <property name="user.language" value="ca"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Anna\AppData\Local\Temp\surefire11115349847898854158\surefirebooter4290661600740277086.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Anna\AppData\Local\Temp\surefire12985124687445218970\surefirebooter5843322626733641986.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25+37-LTS-3491"/>
@@ -61,8 +61,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testValidMove" classname="com.tic_tac_toe.AppTest" time="0.039"/>
-  <testcase name="testBoardInitialization" classname="com.tic_tac_toe.AppTest" time="0.002"/>
-  <testcase name="testOutOfBoundsMove" classname="com.tic_tac_toe.AppTest" time="0.003"/>
-  <testcase name="testOccupiedCellMove" classname="com.tic_tac_toe.AppTest" time="0.001"/>
+  <testcase name="testValidMove" classname="com.tic_tac_toe.AppTest" time="0.045"/>
+  <testcase name="testOutOfBoundsMove" classname="com.tic_tac_toe.AppTest" time="0.002"/>
+  <testcase name="testOccupiedCellMove" classname="com.tic_tac_toe.AppTest" time="0.002"/>
 </testsuite>

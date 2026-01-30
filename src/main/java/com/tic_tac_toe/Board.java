@@ -1,6 +1,7 @@
 package com.tic_tac_toe;
 
 public class Board {
+
     private final char[][] grid;
 
     public Board() {
@@ -22,10 +23,14 @@ public class Board {
             System.out.print(i + "    ");
             for (int j = 0; j < 3; j++) {
                 System.out.print(grid[i][j]);
-                if (j < 3) System.out.print("  |  ");
-            } 
+                if (j < 3) {
+                    System.out.print("  |  ");
+                }
+            }
             System.out.println();
-            if (i < 3) System.out.println("    -----------------");
+            if (i < 3) {
+                System.out.println("    -----------------");
+            }
         }
     }
 

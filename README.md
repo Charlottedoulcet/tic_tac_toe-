@@ -86,13 +86,13 @@ java src/Main
 ## Screenshots
 
 ### Game start
-![Empty board](docs/game-start.png)
+![Empty board](./src/img/game-start.png)
 
 ### During gameplay
-![Game in progress](docs/game-playing.png)
+![Game in progress](./src/img/game-playing.png)
 
 ### Game result
-![Game end](docs/game-end.png)
+![Game end](./src/img/game-end.png)
 
 ## Team
 - Product Owner: Cristina Viejó https://github.com/krissvinti-ux
