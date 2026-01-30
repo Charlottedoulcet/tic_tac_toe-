@@ -1,27 +1,26 @@
 package com.tic_tac_toe;
 
+import java.util.Scanner;
+
 public class Main {
-public static void main (String [] arg){
-    System.out.println(Board.tablero);
+
+    public static void main(String[] args) {
 
 
-    System.out.println("Welcome to Tic Tac Toe!");
-    System.out.println("Rules:");
-    System.out.println("- Two players: X y O");
-    System.out.println("- TEXTO EXPLICATIVO");
-      @SuppressWarnings("unused")
-    Board board = new Board();
-    System.out.println("Do you want to start the game? (y/n)");
-    System.out.println("Choose your token (X / O)");
-  
-    // board.print();
+        try (Scanner scanner = new Scanner(System.in)) {
 
-    // Board();
+            System.out.println("🎮 WELCOME TO TIC TAC TOE 🎮");
+            System.out.println("Choose game mode:");
+            System.out.println("1 - Player vs Player");
+            System.out.println("2 - Player vs CPU");
+            System.out.print("Your choice: ");
 
-    System.out.println("Do you want to continue? (y/n)");
+            int choice = scanner.nextInt();
 
-    System.out.println("Thanks for playing!");
+            boolean playAgainstCpu = (choice == 2);
 
+            TicTacToe game = new TicTacToe(playAgainstCpu);
+            game.start(scanner);
+        }
+    }
 }
-}
-
